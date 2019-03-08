@@ -1,2 +1,2 @@
 requests = 2.20.0
-json >= 2
+json >= 18.2
